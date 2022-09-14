@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkselectdb_portal=self.webpackChunkselectdb_portal||[]).push([[59541],{9596:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/release-notes","page":1,"postsPerPage":4,"totalPages":1,"totalCount":4,"blogDescription":"Apache Doris Blog","blogTitle":"Blog"}')}}]);
