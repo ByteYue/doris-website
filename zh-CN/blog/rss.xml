@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[Apache Doris 1.2 Star-Schema-Benchmark 性能测试报告，]]></title>
+            <title><![CDATA[Apache Doris 1.2 Star-Schema-Benchmark 性能测试报告]]></title>
             <link>https://doris.apache.org/zh-CN/blog/ssb</link>
             <guid>/ssb</guid>
             <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
@@ -18,7 +18,7 @@
             <category>技术解析</category>
         </item>
         <item>
-            <title><![CDATA[Apache Doris 1.2 TPC-H 性能测试报告，]]></title>
+            <title><![CDATA[Apache Doris 1.2 TPC-H 性能测试报告]]></title>
             <link>https://doris.apache.org/zh-CN/blog/tpch</link>
             <guid>/tpch</guid>
             <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>

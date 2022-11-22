@@ -8,7 +8,7 @@
     <subtitle>Apache Doris Blog</subtitle>
     <icon>https://doris.apache.org/zh-CN/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Apache Doris 1.2 Star-Schema-Benchmark 性能测试报告，]]></title>
+        <title type="html"><![CDATA[Apache Doris 1.2 Star-Schema-Benchmark 性能测试报告]]></title>
         <id>/ssb</id>
         <link href="https://doris.apache.org/zh-CN/blog/ssb"/>
         <updated>2022-11-22T00:00:00.000Z</updated>
@@ -20,7 +20,7 @@
         <category label="技术解析" term="技术解析"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apache Doris 1.2 TPC-H 性能测试报告，]]></title>
+        <title type="html"><![CDATA[Apache Doris 1.2 TPC-H 性能测试报告]]></title>
         <id>/tpch</id>
         <link href="https://doris.apache.org/zh-CN/blog/tpch"/>
         <updated>2022-11-22T00:00:00.000Z</updated>
