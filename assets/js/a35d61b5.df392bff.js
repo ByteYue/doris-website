@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkselectdb_portal=self.webpackChunkselectdb_portal||[]).push([[5775],{78590:e=>{e.exports=JSON.parse('{"label":"Best Practice","permalink":"/blog/tags/best-practice","allTagsPath":"/blog/tags","count":9}')}}]);
